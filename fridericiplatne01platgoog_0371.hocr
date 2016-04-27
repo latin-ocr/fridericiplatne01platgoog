@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fridericiplatne01platgoog_0371.png"; bbox 0 0 2204 3688; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 227 531 996 954">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 292 531 992 680">
+     <span class='ocr_line' id='line_1_1' title="bbox 292 531 992 680; baseline 0 -19"><span class='ocrx_word' id='word_1_1' title='bbox 292 614 388 680; x_wconf 73' lang='lat' dir='ltr'>„mm</span> <span class='ocrx_word' id='word_1_2' title='bbox 402 593 438 658; x_wconf 70' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_3' title='bbox 451 531 785 674; x_wconf 41' lang='lat' dir='ltr'>1³1&amp;dessde</span> <span class='ocrx_word' id='word_1_4' title='bbox 791 590 992 675; x_wconf 57' lang='lat' dir='ltr'>emme.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 290 685 995 769">
+     <span class='ocr_line' id='line_1_2' title="bbox 290 685 995 769; baseline 0.006 -21.165"><span class='ocrx_word' id='word_1_5' title='bbox 290 688 483 766; x_wconf 53' lang='lat' dir='ltr'>„Hoeleffi</span> <span class='ocrx_word' id='word_1_6' title='bbox 511 685 995 769; x_wconf 54' lang='lat' dir='ltr'>mvolohtmemmffmm</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 227 774 996 954">
+     <span class='ocr_line' id='line_1_3' title="bbox 227 774 996 867; baseline 0.001 -26"><span class='ocrx_word' id='word_1_7' title='bbox 227 782 231 797; x_wconf 84' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 292 778 382 865; x_wconf 67' lang='lat' dir='ltr'>„ste</span> <span class='ocrx_word' id='word_1_9' title='bbox 377 774 523 867; x_wconf 56' lang='lat' dir='ltr'>suisque</span> <span class='ocrx_word' id='word_1_10' title='bbox 537 776 667 838; x_wconf 67' lang='lat' dir='ltr'>dium</span> <span class='ocrx_word' id='word_1_11' title='bbox 680 779 790 841; x_wconf 69' lang='lat' dir='ltr'>morin</span> <span class='ocrx_word' id='word_1_12' title='bbox 811 777 996 851; x_wconf 61' lang='lat' dir='ltr'>obffimb‘m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 371 862 995 954; baseline 0 -21"><span class='ocrx_word' id='word_1_13' title='bbox 371 866 494 952; x_wconf 69' lang='lat' dir='ltr'>„iisqoe</span> <span class='ocrx_word' id='word_1_14' title='bbox 512 862 706 939; x_wconf 60' lang='lat' dir='ltr'>excitabimus</span> <span class='ocrx_word' id='word_1_15' title='bbox 708 870 755 941; x_wconf 55' lang='lat' dir='ltr'><strong><em>a</em></strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 768 870 995 954; x_wconf 59' lang='lat' dir='ltr'>nuga&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1106 3688">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1106 3688">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1106 3688; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1106 3688; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
